@@ -1,0 +1,5 @@
+BMW 320,25000
+Ford Focus,18000
+Toyota Corolla,20000
+Audi A4,30000
+Skoda Octavia,22000

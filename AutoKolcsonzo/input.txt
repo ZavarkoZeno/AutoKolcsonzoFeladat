@@ -1,0 +1,20 @@
+H;1;BMW 320;25000;2
+H;2;Toyota Corolla;20000;1
+K;3;Audi A4;30000;Miskolc, Fő utca 5.;Kovács Béla
+H;4;Skoda Octavia;22000;3
+K;5;Ford Focus;18000;Debrecen, Kossuth tér 3.;Nagy Anna
+H;6;BMW 320;25000;2
+H;7;Audi A4;30000;4
+K;8;Toyota Corolla;20000;Szeged, Rózsa utca 10.;Szabó László
+H;9;Ford Focus;18000;1
+K;10;BMW 320;25000;Győr, Baross út 22.;Kiss Petra
+K;11;Skoda Octavia;22000;Miskolc, Petőfi tér 7.;Kovács Béla
+H;12;Toyota Corolla;20000;3
+H;13;Ford Focus;18000;2
+K;14;Audi A4;30000;Pécs, Király utca 18.;Nagy Anna
+H;15;Skoda Octavia;22000;4
+K;16;BMW 320;25000;Szolnok, Ady Endre út 4.;Kovács Béla
+H;17;Audi A4;30000;1
+K;18;Toyota Corolla;20000;Veszprém, Kossuth utca 12.;Nagy Anna
+H;19;Ford Focus;18000;3
+K;20;BMW 320;25000;Székesfehérvár, Budai út 30.;Kelemen Júlia
